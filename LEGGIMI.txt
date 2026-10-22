@@ -1,0 +1,4 @@
+CALCOLATORE STAMPA 3D — VERSIONE iPHONE
+Funzioni: calcolo costi e prezzo, archivio materiali personalizzati, storico preventivi con Apri/PDF, esportazione PDF tramite stampa iOS e CSV.
+Installazione: pubblica questa cartella su hosting HTTPS (es. GitHub Pages), aprila in Safari su iPhone e scegli Condividi > Aggiungi alla schermata Home.
+Dati salvati localmente nel browser del dispositivo, non sincronizzati.
